@@ -1,0 +1,76 @@
+ParticipantID,Body_Fat_Percent,VO2max_ml_per_kg_min,Resting_HR_bpm,Sleep_Efficiency_pct,Daily_Caloric_Intake_kcal,Weekly_Exercise_Hours,Mood_Score,Anxiety_Score,Coping_Strategy,Memory_RT_ms,Stimulus_Type,Confidence_Rating
+1,24.5,48.2,73,90.4,2086,5.8,5,1,Social Support,423.3,Image,Medium
+2,21.3,40.9,73,85.3,2220,9.0,2,8,Exercise,352.1,Image,Medium
+3,25.2,37.0,63,79.6,2874,0.5,3,1,Exercise,614.4,Word,Medium
+4,29.6,40.9,72,81.4,2805,2.8,7,3,Social Support,533.8,Word,Low
+5,20.8,20.1,73,88.4,2490,9.5,6,4,Social Support,458.5,Word,Medium
+6,20.8,37.8,63,81.3,2559,8.9,2,8,Social Support,563.3,Word,Medium
+7,29.9,43.6,89,86.1,3139,4.6,6,6,Exercise,727.1,Image,Medium
+8,25.8,54.8,75,85.2,2204,6.2,2,10,Exercise,518.2,Word,Medium
+9,19.7,34.8,58,81.7,2774,2.8,2,7,Meditation,524.8,Word,High
+10,24.7,31.9,77,95.7,2399,1.9,2,8,Social Support,454.1,Image,Medium
+11,19.7,35.0,60,88.2,2391,4.6,3,2,Meditation,415.0,Image,High
+12,19.7,49.2,78,74.9,3049,3.5,2,10,Meditation,583.0,Image,High
+13,23.2,43.3,82,85.9,2913,5.8,4,8,Exercise,414.4,Image,High
+14,12.4,34.7,62,81.7,2907,0.8,9,3,Social Support,507.2,Word,Medium
+15,13.4,45.1,80,89.3,3153,9.7,6,7,Exercise,452.2,Word,High
+16,19.2,41.0,74,81.0,2511,9.9,1,3,Exercise,547.9,Image,High
+17,16.9,49.7,78,84.4,2841,7.0,8,7,Meditation,533.4,Word,High
+18,23.6,33.0,89,87.5,2345,5.4,7,2,Meditation,603.8,Word,Low
+19,17.5,36.7,68,89.3,2662,3.1,10,10,Exercise,449.0,Word,Medium
+20,14.9,36.1,62,79.0,2435,8.1,3,6,Exercise,473.0,Image,Medium
+21,29.3,25.4,61,83.3,2548,6.8,1,3,Meditation,402.1,Word,Low
+22,20.9,43.0,62,82.6,2798,1.6,5,3,Exercise,455.6,Image,Medium
+23,22.3,42.6,69,81.7,2091,9.1,4,9,Meditation,537.7,Word,High
+24,14.9,40.1,73,93.8,3546,8.2,10,7,Exercise,575.7,Word,High
+25,19.3,37.7,73,87.0,1997,9.5,8,5,Meditation,407.8,Word,Low
+26,22.6,25.8,78,78.7,1893,7.3,1,10,Meditation,587.0,Image,High
+27,16.2,35.8,70,89.6,3079,6.1,10,7,Exercise,635.6,Word,Medium
+28,23.9,36.6,85,95.6,2896,4.2,1,9,Exercise,541.3,Image,High
+29,19.0,32.0,67,90.2,2812,9.3,4,1,Exercise,687.7,Image,High
+30,20.5,38.4,97,77.4,2814,8.7,8,7,Exercise,422.6,Image,Medium
+31,19.0,44.0,76,82.6,2494,0.5,5,6,Social Support,375.5,Word,Medium
+32,31.3,58.9,61,91.3,2051,0.3,2,10,Exercise,322.1,Word,High
+33,21.9,41.7,59,81.5,2538,3.8,6,9,Social Support,649.6,Word,Medium
+34,16.7,42.6,75,87.2,2161,8.1,5,1,Exercise,565.4,Word,Low
+35,26.1,39.3,68,88.9,2988,9.9,2,4,Meditation,494.4,Image,High
+36,15.9,20.8,77,80.4,2426,1.5,3,9,Social Support,528.0,Image,Medium
+37,23.0,39.7,75,84.7,2087,5.9,9,4,Meditation,387.5,Image,High
+38,12.2,40.6,69,68.8,2339,3.8,7,10,Meditation,744.6,Word,Medium
+39,15.4,64.6,62,79.9,2706,9.7,7,3,Meditation,512.9,Image,High
+40,23.0,38.1,55,83.7,2218,8.4,6,9,Exercise,510.9,Word,Medium
+41,25.7,43.0,66,78.8,2089,8.4,8,2,Social Support,572.6,Image,High
+42,22.9,39.7,79,93.2,2622,4.7,4,4,Social Support,548.1,Word,High
+43,21.4,28.3,72,77.8,2622,4.1,8,6,Social Support,522.4,Word,Low
+44,20.5,51.4,58,82.8,2247,2.7,4,2,Exercise,421.0,Image,Medium
+45,14.6,47.5,72,85.7,2264,0.6,8,8,Social Support,547.1,Image,High
+46,18.4,47.9,74,92.2,2616,8.6,9,8,Social Support,688.2,Image,Medium
+47,19.7,30.9,61,77.8,1776,8.1,3,1,Exercise,634.5,Image,Low
+48,27.3,54.0,72,90.8,1796,10.0,3,3,Exercise,659.3,Word,Medium
+49,23.7,26.0,71,85.1,2141,10.0,2,10,Social Support,448.9,Image,Medium
+50,13.2,45.9,59,80.1,2393,5.6,10,9,Meditation,401.0,Image,High
+51,23.6,61.9,74,87.3,2655,7.7,3,5,Social Support,487.4,Image,Medium
+52,20.1,30.1,76,86.0,3238,9.4,3,6,Exercise,505.6,Word,Medium
+53,18.6,34.3,81,82.0,2929,8.5,5,4,Social Support,609.4,Word,Medium
+54,25.1,41.0,81,85.3,2420,2.5,5,10,Exercise,330.8,Image,Medium
+55,27.2,35.0,56,83.1,2490,4.5,2,2,Exercise,653.0,Word,Medium
+56,26.7,24.5,61,85.6,1999,1.3,10,8,Exercise,484.2,Image,Low
+57,17.8,40.7,75,88.3,2491,9.5,6,6,Social Support,457.3,Word,High
+58,20.5,29.4,75,92.9,2356,6.1,5,5,Meditation,398.8,Word,Medium
+59,23.7,44.7,75,78.8,2661,2.3,6,9,Meditation,334.5,Word,Medium
+60,26.9,30.8,109,95.7,2086,6.7,1,1,Exercise,582.3,Word,High
+61,19.6,55.5,76,75.2,2760,6.2,5,5,Social Support,507.3,Image,Medium
+62,21.1,32.2,81,84.2,3266,3.6,9,6,Exercise,371.0,Image,High
+63,16.5,36.8,80,87.9,2446,1.1,10,5,Social Support,370.5,Image,Medium
+64,16.0,48.1,77,86.4,2701,6.7,2,6,Meditation,466.4,Word,Low
+65,26.1,27.7,67,81.9,2845,5.2,1,6,Exercise,666.9,Image,Medium
+66,28.8,42.3,78,84.0,2299,7.7,10,7,Meditation,474.0,Image,Medium
+67,21.6,53.1,62,82.5,2612,5.2,9,4,Exercise,349.7,Image,High
+68,27.0,23.9,68,82.1,2506,8.5,10,8,Social Support,475.4,Word,Low
+69,23.8,41.8,65,89.2,2549,5.5,9,7,Meditation,472.7,Word,Low
+70,18.8,42.6,71,86.8,2113,5.6,9,9,Exercise,230.3,Word,Medium
+71,23.8,47.8,93,81.5,2512,8.8,6,7,Social Support,494.6,Image,Medium
+72,29.7,27.6,51,89.5,2749,4.0,8,3,Exercise,476.9,Image,High
+73,21.8,26.8,77,86.5,3226,1.3,1,3,Meditation,569.6,Image,Medium
+74,29.8,45.2,54,89.1,2980,0.3,10,8,Social Support,684.9,Word,Medium
+75,8.9,43.0,65,88.1,3577,7.6,4,5,Meditation,612.7,Word,Medium
